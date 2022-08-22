@@ -1,3 +1,5 @@
 The purpose of this Final Project was to make an application that covered several things. OOP, Multithreading, File IO, JavaFX, Sets/Maps/Graph (one or two of those), Queue/Priority OR Queue/Stack, Search/Sort/Recursion (one of these), An interface or Abstract class, 2 children of the one used, and 3 total children of those files. 
 
 I recieved a 400/400 on this Final Project, it was written over the course of about 8 hours. The Hash part of this is not a real hash generator, but we have to give whatever we used a purpose in our code so I just generated random characters in a multithreadding situation and said it was generating a hash, then I sorted that hash to see the characters that were in it. 
+
+This was originally written in 2020, I have since done some minor revision in 2022 to make this work easier with my current enviroments while not changing the original java source code and JavaFX source code. There is a zip file in the repository that contains the original 2020 Netbeans source code.
